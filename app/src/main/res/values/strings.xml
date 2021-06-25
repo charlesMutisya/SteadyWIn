@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"> Odibets Predictions</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="_23_june">date</string>
+    <string name="post">post</string>
+    <string name="post_time">time</string>
+<string name="clickable">Email Address</string>
+    <string name="action_settings">Settings</string>
+    <string name="feedback">Feedback</string>
+      <string name="share">Share</string>
+    <string name="submit_feedback">Submit</string>
+    <string name="rate_us_please">Rate us </string>
+    <string name="about">About app</string>
+    <string name="privacy">Privacy Policy</string>
+
+
+</resources>

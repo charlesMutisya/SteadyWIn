@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_mail"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="@string/feedback" />
+
+    <item
+        android:id="@+id/action_rate"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="@string/rate_us_please" />
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share" />
+
+</menu>

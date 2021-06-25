@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "522362021694",
+    "firebase_url": "https://betiko-predicts.firebaseio.com",
+    "project_id": "betiko-predicts",
+    "storage_bucket": "betiko-predicts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522362021694:android:3ffff7577d60eb3f3e2e6f",
+        "android_client_info": {
+          "package_name": "com.hamsoft.betkingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMC_VhWIY60VpvnkVYgiBs4KNwioHKwtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522362021694:android:a5a429952c4c59fb3e2e6f",
+        "android_client_info": {
+          "package_name": "com.thestar.betikopredictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMC_VhWIY60VpvnkVYgiBs4KNwioHKwtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522362021694:android:65349e18e819b4df3e2e6f",
+        "android_client_info": {
+          "package_name": "com.winnerpredictor.oddipredictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMC_VhWIY60VpvnkVYgiBs4KNwioHKwtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522362021694-b20f3q15ubju72pq3js2qnp975pp2mqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
